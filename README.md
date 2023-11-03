@@ -1,11 +1,15 @@
 # redm_camerafunc
 
 RedM Camera functions exports
+
 Usage: 
+
 Take Photo:
 exports.redm_camerafunc:PhotoShoot()
+
 Open Album:
 exports.redm_camerafunc:OpenAlbums()
+
 Close Album:
 exports.redm_camerafunc:CloseAlbums()
 
